@@ -1,0 +1,16 @@
+3. a. git init ==> Faz a inicialização do git na pasta
+   b. git config --global user.name "turing" ==> Configura o nome de usuário utilizado para os commits
+   c. git add EXERCICIO.txt ==> Coloca um arquivo(EXERCICIO.txt) em Staging
+   d. git add -A ==> Coloca todos os arquivos em Staging
+   e. git commit -m "Adicionado nova interface" ==> Da um commit dos arquirvos, salvando-os no versionamento junto de uma mensagem
+   f. git commit ==>Da um commit dos arquirvos, salvando-os no versionamento
+   g. git reset --hard HEAD ==> Remove todas as alterações não tiveram commit
+   h. cd Downloads ==> Entra no diretório Downloads
+   i. pwd ==> Mostra o caminho e diretório atual
+   j. cd .. ==> Volta um diretório
+   k. ls ==> Exibe os itens do diretório
+   l. git pull ==> Incorpora alterações de um repositório remoto no projeto atual
+   m. git push ==> Atualiza as referências remotas com as locais
+   n. git clone <<url>> ==> Clona um repositório remoto no local
+   o. git diff ==> Mostra as diferenças entre os commits
+   p. git show ==> Exibe detalhes de um ou mais objetos (bolhas, árvores, tags e commits).
